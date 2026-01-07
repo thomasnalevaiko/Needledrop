@@ -2,11 +2,18 @@
 layout: default
 ---
 
-::: {.page}
 
 # Needledrop  
-### Manual do Jogo — V1.0
 
+## Informações:
+- Número de Jogadores: 2 a 6 jogadores (7-8 modo estendido)
+- Tempo de jogo: 40/60 min (90/120 min modo estendido)
+- Classificação: 10 anos
+- Conteúdo: Linguagem Informal Leve
+
+<hr>
+
+### Manual do Jogo — V1.0
 <hr>
 
 ## Preparação
