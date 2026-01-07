@@ -1,3 +1,11 @@
+---
+---
+
+<link rel="stylesheet" href="assets/manual.css">
+
+<div class="page">
+
+
 # Needledrop v1.0
 
 # Regras do jogo
@@ -66,3 +74,6 @@ O jogo termina quando:
 - A cada **5 discos de ouro**, o jogador recebe **1 disco de platina**.
 - Vence quem tiver **mais discos de platina**.
 - Em caso de empate, vence quem tiver **mais discos de ouro não convertidos**.
+
+- </div>
+
