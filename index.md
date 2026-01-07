@@ -5,10 +5,11 @@
 
 <div class="page">
 
+# Needledrop  
+### Manual do Jogo — V1.0
 
-# Needledrop v1.0
+<hr>
 
-# Regras do jogo
 
 ## Preparação:
 - Separe os baralhos por tipo (**Álbuns, Bônus e Revés**) e embaralhe cada um.
