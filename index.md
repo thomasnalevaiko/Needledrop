@@ -13,10 +13,11 @@ layout: default
 
 <hr>
 
-### Manual do Jogo — V1.0
+# Manual do Jogo — V1.0
 <hr>
 
-## Preparação
+
+## Preparação:
 - Separe os baralhos por tipo (**Álbuns, Bônus e Revés**) e embaralhe cada um.
 - Coloque todos os baralhos no centro da mesa, virados para baixo.
 - Cada jogador começa com **4 discos de ouro**.
@@ -26,14 +27,14 @@ layout: default
 
 ---
 
-## Início do Jogo
+## Início do Jogo:
 - Todos os jogadores rolam um dado.
 - Quem obtiver o **maior número** começa.
 - O jogo segue em **sentido horário**.
 
 ---
 
-## Turno do Jogador
+## Turno do Jogador:
 1. Comprar **1 carta de Álbum** (sem revelar a data).
 2. Posicionar a carta na timeline:
    - **À direita** → se acreditar que o álbum é **mais recente**.
@@ -43,7 +44,7 @@ layout: default
 
 ---
 
-## Resultado da Jogada
+## Resultado da Jogada:
 - ✅ **Data exata (dia, mês e ano corretos)**  
   → Ganha **1 disco de platina**  
   → O álbum permanece na mesa sem rotação.
@@ -58,7 +59,7 @@ layout: default
 
 ---
 
-## Fim da Rodada
+## Fim da Rodada:
 - Após todos jogarem:
   1. Cada jogador rola **1 dado**.
   2. Quem tirar o **maior número** compra **1 carta de Bônus**.
@@ -68,7 +69,7 @@ layout: default
 
 ---
 
-## Fim de Jogo
+## Fim de Jogo:
 O jogo termina quando:
 - Todos os **discos de platina** forem conquistados  
   **OU**
@@ -76,7 +77,7 @@ O jogo termina quando:
 
 ---
 
-## Pontuação Final
+## Pontuação Final:
 - A cada **5 discos de ouro**, o jogador recebe **1 disco de platina**.
 - Vence quem tiver **mais discos de platina**.
 - Em caso de empate, vence quem tiver **mais discos de ouro não convertidos**.
