@@ -67,8 +67,10 @@ layout: default
 
 ## Fim de Jogo
 O jogo termina quando:
-- Todos os **discos de platina** forem conquistados 
+- Todos os **discos de platina** forem conquistados
+
   **OU**
+
 - O **Álbum Ano 0 + 24 álbuns** estiverem posicionados na timeline.
 
 ---
