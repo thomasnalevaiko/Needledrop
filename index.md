@@ -1,4 +1,10 @@
 ---
+layout: default
+---
+
+<link rel="stylesheet" href="{{ '/assets/manual.css' | relative_url }}">
+
+---
 ---
 
 # Needledrop  
