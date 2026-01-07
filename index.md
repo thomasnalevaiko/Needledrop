@@ -9,7 +9,6 @@ layout: default
 
 # Needledrop  
 ### Manual do Jogo — V1.0
-{: .page }
 
 <hr>
 
@@ -67,13 +66,18 @@ layout: default
 
 ## Fim de Jogo
 O jogo termina quando:
-- Todos os **discos de platina** forem conquistados
-
+- Todos os **discos de platina** forem conquistados  
   **OU**
-
 - O **Álbum Ano 0 + 24 álbuns** estiverem posicionados na timeline.
 
 ---
+
+## Pontuação Final
+- A cada **5 discos de ouro**, o jogador recebe **1 disco de platina**.
+- Vence quem tiver **mais discos de platina**.
+- Em caso de empate, vence quem tiver **mais discos de ouro não convertidos**.
+
+:::
 
 ## Pontuação Final
 - A cada **5 discos de ouro**, o jogador recebe **1 disco de platina**.
