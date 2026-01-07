@@ -39,3 +39,48 @@ ul, ol {
 hr {
   margin: 50px 0;
 }
+
+/* Remove interface do tema minimal */
+header,
+footer,
+aside {
+  display: none !important;
+}
+
+/* Centraliza o conteúdo */
+body {
+  margin: 0;
+}
+
+/* ===== Refinamento visual da capa ===== */
+
+/* Título principal (Needledrop) */
+.page h1 {
+  font-size: 42px;
+  margin-bottom: 10px;
+}
+
+/* Subtítulo (Manual do Jogo — V1.0) */
+.page h3 {
+  text-align: center;
+  font-weight: normal;
+  font-size: 18px;
+  margin-bottom: 40px;
+  color: #333;
+}
+
+/* Espaçamento melhor entre seções */
+.page h2 {
+  margin-top: 60px;
+}
+
+/* Texto mais confortável */
+.page p,
+.page li {
+  line-height: 1.6;
+}
+
+/* Listas mais “limpas” */
+.page ul li {
+  margin-bottom: 6px;
+}
