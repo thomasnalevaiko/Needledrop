@@ -11,7 +11,7 @@ layout: default
 
 <hr>
 
-# Manual do Jogo — V2.0
+# Manual do Jogo — v2.0
 <hr>
 
 
@@ -65,8 +65,7 @@ a partir do momento em que o jogador tem apenas 4 álbuns na mão ele fica susce
 
 Acerto: nada muda e segue o jogo
 
-Erro: compra um carta de Revés, lê em voz alta e resolva a punição
-
+Erro: compra um carta de Revés, lê em voz alta e resolve a punição
 ---
 
 ## 🏁 Fim de Jogo
