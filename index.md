@@ -3,8 +3,6 @@ layout: default
 ---
 
 
-# Needledrop  
-
 ## Informações:
 - Número de Jogadores: 2 a 6 jogadores
 - Tempo de jogo: 15 a 40 min 
