@@ -21,9 +21,9 @@ layout: default
 
 ### ***O jogo pode ser jogado de duas formas:***
 
-- Modo Normal
+- **Modo Normal**
     - a Partir do momento que o jogador tem apenas 4 cartas, a cada erro ele compra cartas da pilha de revés
-- Modo Rápido
+- **Modo Rápido**
     - Ignora o deck de revés
 
 ---
